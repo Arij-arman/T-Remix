@@ -22,7 +22,6 @@ $ chmod +x *
 
 $ bash t-remix.sh
 ```
-### Screenshots
 
 \
 ### To Remove Banner
@@ -43,6 +42,9 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Development by
+### Now you will get your previous termux. Subscribe my channel plz... TECH KNOW LINUX https://www.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ 
+
+### Development by arij
+### THANK YOU! KEEP CONNECTED FOR MY HACKING TUTORIALS.....
 
 
