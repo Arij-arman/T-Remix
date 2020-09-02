@@ -1,4 +1,4 @@
-# T-REMIX
+
 ### What is T-Remix??
 T-Remix or Termux will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look and we also have add a feature of password,so now you can also set Password on your Termux and protect it so no one can login in your termux in absence of you.
 one more feature that we have added is that you can change dollar sign and put anything you want in that place.
@@ -10,7 +10,7 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Arij-arman/T-REMIX
+$ git clone https://github.com/Bhaviktutorials/T-Remix
 
 $ ls
 
@@ -22,6 +22,7 @@ $ chmod +x *
 
 $ bash t-remix.sh
 ```
+### Screenshots
 
 \
 ### To Remove Banner
@@ -42,9 +43,6 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Now you will get your previous termux. Subscribe my channel plz... TECH KNOW LINUX https://www.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ 
-
-### Development by arij
-### THANK YOU! KEEP CONNECTED FOR MY HACKING TUTORIALS.....
+### Development by
 
 
