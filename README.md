@@ -10,7 +10,7 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Bhaviktutorials/T-Remix
+$ git clone https://github.com/Arij-arman/T-Remix
 
 $ ls
 
@@ -22,7 +22,7 @@ $ chmod +x *
 
 $ bash t-remix.sh
 ```
-### Screenshots
+
 
 \
 ### To Remove Banner
@@ -43,6 +43,6 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Development by
+### Development by ARIJ ARMAN
 
 
