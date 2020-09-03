@@ -10,7 +10,7 @@ echo " "
 echo -e "\e[32m[*]\e[34m Installing T-Remix \e[m "
 echo
 #storage permission
-termux-setup-storage
+termux-setup-storage -y
 #updating the packages
 apt-get update -y
  #upgrading the packages
