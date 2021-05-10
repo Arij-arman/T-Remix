@@ -56,7 +56,7 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Development by ARIJ ARMAN
+### Development by MIDRAJ
 ### Keep connected for hacking tools, Thank you.
 ### Subscribe my channel for hacking tutorials, <a href="https://www.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ" target=_blank >Tech Know Linux </a>
 
