@@ -1,0 +1,13 @@
+$ termux-setup-storage
+  
+$ pkg update && pkg upgrade && pkg install git -y
+
+$ ls
+
+$ cd T-Remix
+
+$ ls
+
+$ chmod +x *
+
+$ bash t-remix.sh
