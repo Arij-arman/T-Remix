@@ -50,7 +50,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ARIJ ARMAN♡¸.•* ] ───────────────>            
+       <─────────────── [ Re-Coded by =*•.¸♡midraj♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
@@ -173,7 +173,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ARIJ ARMAN♡¸.•* ] ───────────────>              
+        <─────────────── [Re-Coded by *•.¸♡midraj♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
