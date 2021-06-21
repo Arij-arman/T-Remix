@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
-######################################
-#        PROJECT: T-Remix            #
-#        Author: ARIJ ARMAN          #
-#  email: mrxanonymous633@gmailcom   #
-######################################
+    #################################################################################      
+                PROJECT: sivaprasad         
+#               YT CHANNEL:      https://youtube.com/channel/UC_LDaXRm7wnOXvlbzzwsIPA    #
+                email: jacksachu8@gmail.com   
+    #################################################################################
 
 #Installing the following packages to install T-Remix
 echo " "
@@ -173,7 +173,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ARIJ ARMAN♡¸.•* ] ───────────────>              
+        <─────────────── [Re-Coded by *•.¸♡SIVAPRASAD.N♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
@@ -189,7 +189,7 @@ tput clear
 tput cup 3 30
 echo -e "\e[44m Like \e[41m Subscribe \e[m"
 tput cup 6 30
-echo -e "\x1b[42m ARIJ ARMAN's TECH KNOW LINUX channel \x1b[m"
+echo -e "\x1b[42m "SP_MODS" channel \x1b[m"
 tput cup 9 0
 echo -en "\e[93m what is your name : \e[m"
 read answer
@@ -201,13 +201,13 @@ read answer
 
 if [ "$answer" != "${answer#[Yy]}" ] ;then
 tput cup 17 21
-    echo -e "\e[42m Thankyou for subscribing my channel \e[m"
+    echo -e "\e[42m Thankyou for subscribing my SP mod channel \e[m"
 else
 tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe my channel for hacking tutorial \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "ARIJ ARMAN's TECH KNOW LINUX" |lolcat
+figlet -f slant "SP_MODS BEST HACKING TUTORIAL CHANNEL" |lolcat
 echo " "
 echo " "
 #done setting up
